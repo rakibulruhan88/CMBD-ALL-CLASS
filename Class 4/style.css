@@ -1,0 +1,9 @@
+.box{
+    font-size: 30px;
+    background-color: brown;
+    margin: 30px;
+    border-color: blue;
+    border-style: ridge;
+    border-width: 20px;
+    padding: 30px;
+}

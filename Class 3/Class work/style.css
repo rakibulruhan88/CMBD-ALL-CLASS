@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: rgb(227, 17, 17); background-color: antiquewhite; font-size: xx-large;
+}
+
+a { 
+    color: pink; background-color: beige; font-size: 20px;
+}
+
+.head{
+    color: blue ; background-color:pink; 
+} 
+
+.pp{
+    color: coral; background-color: pink;
+}
+
+.p1{
+    background-color: antiquewhite; font-size: 30px;
+}
+
+/* .pp{
+    background-color: black;
+} */
+.p1 span {
+    font-size: 50px; color: red;
+    background-color: blueviolet;
+}
