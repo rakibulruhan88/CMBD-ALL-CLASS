@@ -1,0 +1,24 @@
+.container{
+    max-width: 1180px;
+    margin: auto;
+}
+.grid{
+    /* width: 400px; */
+    background-color: #efe5e5;
+}
+.css-grid{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+.grid-1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.grid-4{
+    /* grid-column-start: 1;
+    grid-column-end: 3; */
+    grid-column: 1/-1;
+    margin: 30px 0;
+}
